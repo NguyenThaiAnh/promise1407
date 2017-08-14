@@ -39,7 +39,7 @@ function tinhDienTichHT(a, b, h, cb) {
             if(err) return cb(err);
             chia(+res, 2, (err, dientich)=>{
                 if(err) return cb(err);
-                cb(dientich);
+                cb(null, dientich);
             });
         });
     });
