@@ -1,0 +1,26 @@
+{
+  "name": "promise1407",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenThaiAnh/promise1407.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenThaiAnh/promise1407/issues"
+  },
+  "homepage": "https://github.com/NguyenThaiAnh/promise1407#readme"
+}
